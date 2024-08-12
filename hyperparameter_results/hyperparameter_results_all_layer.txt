@@ -1,0 +1,801 @@
+best trial is #53     45.30835875092911
+Trial #0
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 7.859304452820138e-05, 'activation': 'relu', 'dropout_rate': 0.3825627691009923, 'lstm_units': 257, 'dense_units': 145, 'kernel': '3', 'epochs': 289, 'batch_size': 430}
+Best performance (MSE): 45.99963194170038
+
+Trial #1
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 2.594553351588831e-05, 'activation': 'tanh', 'dropout_rate': 0.36373457965834244, 'lstm_units': 250, 'dense_units': 280, 'kernel': '3', 'epochs': 166, 'batch_size': 408}
+Best performance (MSE): 45.928896452333085
+
+Trial #2
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.00031646048756713165, 'activation': 'relu', 'dropout_rate': 0.4343878455573449, 'lstm_units': 469, 'dense_units': 51, 'kernel': '15', 'epochs': 129, 'batch_size': 473}
+Best performance (MSE): 46.21786326084427
+
+Trial #3
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0003042759528167228, 'activation': 'tanh', 'dropout_rate': 0.38423635128317146, 'lstm_units': 124, 'dense_units': 234, 'kernel': '3', 'epochs': 95, 'batch_size': 441}
+Best performance (MSE): 46.54913089211356
+
+Trial #4
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 7.940318136590039e-05, 'activation': 'relu', 'dropout_rate': 0.38228292795282603, 'lstm_units': 138, 'dense_units': 148, 'kernel': '5', 'epochs': 255, 'batch_size': 208}
+Best performance (MSE): 46.32409912108736
+
+Trial #5
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 3.650647138857602e-05, 'activation': 'tanh', 'dropout_rate': 0.2226379211606265, 'lstm_units': 494, 'dense_units': 295, 'kernel': '3', 'epochs': 160, 'batch_size': 96}
+Best performance (MSE): 45.94644199938896
+
+Trial #6
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 9.200949633826833e-05, 'activation': 'sigmoid', 'dropout_rate': 0.22811741414803088, 'lstm_units': 493, 'dense_units': 134, 'kernel': '15', 'epochs': 345, 'batch_size': 191}
+Best performance (MSE): 45.87332821722846
+
+Trial #7
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 2.6127916268260828e-05, 'activation': 'relu', 'dropout_rate': 0.44105131907744083, 'lstm_units': 503, 'dense_units': 180, 'kernel': '5', 'epochs': 99, 'batch_size': 198}
+Best performance (MSE): 45.96800199988227
+
+Trial #8
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.00017812968574349282, 'activation': 'relu', 'dropout_rate': 0.3610249820071033, 'lstm_units': 154, 'dense_units': 117, 'kernel': '15', 'epochs': 430, 'batch_size': 217}
+Best performance (MSE): 45.8692437790135
+
+Trial #9
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.0034546674786498856, 'activation': 'tanh', 'dropout_rate': 0.4178906825967356, 'lstm_units': 109, 'dense_units': 211, 'kernel': '10', 'epochs': 299, 'batch_size': 336}
+Best performance (MSE): 46.38672586291064
+
+Trial #10
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008870909951701946, 'activation': 'sigmoid', 'dropout_rate': 0.49684040049144096, 'lstm_units': 322, 'dense_units': 65, 'kernel': '15', 'epochs': 473, 'batch_size': 305}
+Best performance (MSE): 45.79654599846113
+
+Trial #11
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009131645290653667, 'activation': 'sigmoid', 'dropout_rate': 0.49468526682783853, 'lstm_units': 355, 'dense_units': 76, 'kernel': '15', 'epochs': 495, 'batch_size': 299}
+Best performance (MSE): 45.71334947450474
+
+Trial #12
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009918195235133122, 'activation': 'sigmoid', 'dropout_rate': 0.4952442287301596, 'lstm_units': 344, 'dense_units': 53, 'kernel': '15', 'epochs': 500, 'batch_size': 325}
+Best performance (MSE): 46.103201682250365
+
+Trial #13
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0027801365760857268, 'activation': 'sigmoid', 'dropout_rate': 0.4894813638608396, 'lstm_units': 362, 'dense_units': 93, 'kernel': '15', 'epochs': 491, 'batch_size': 285}
+Best performance (MSE): 46.271640428669244
+
+Trial #14
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009566524848547829, 'activation': 'sigmoid', 'dropout_rate': 0.4925685569457793, 'lstm_units': 368, 'dense_units': 99, 'kernel': '10', 'epochs': 405, 'batch_size': 363}
+Best performance (MSE): 46.25057314068726
+
+Trial #15
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.001715113825523322, 'activation': 'sigmoid', 'dropout_rate': 0.44954904391657546, 'lstm_units': 298, 'dense_units': 71, 'kernel': '15', 'epochs': 413, 'batch_size': 278}
+Best performance (MSE): 46.16255196407306
+
+Trial #16
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0010559587433554862, 'activation': 'sigmoid', 'dropout_rate': 0.462409777427834, 'lstm_units': 430, 'dense_units': 90, 'kernel': '15', 'epochs': 364, 'batch_size': 100}
+Best performance (MSE): 45.79982434211602
+
+Trial #17
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005599762443504629, 'activation': 'sigmoid', 'dropout_rate': 0.46772795698631764, 'lstm_units': 211, 'dense_units': 193, 'kernel': '15', 'epochs': 458, 'batch_size': 508}
+Best performance (MSE): 46.224890748423974
+
+Trial #18
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0007432665263692247, 'activation': 'sigmoid', 'dropout_rate': 0.3111675336027455, 'lstm_units': 410, 'dense_units': 69, 'kernel': '10', 'epochs': 347, 'batch_size': 241}
+Best performance (MSE): 46.4753819491975
+
+Trial #19
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.004708697320710646, 'activation': 'sigmoid', 'dropout_rate': 0.49786921428889713, 'lstm_units': 324, 'dense_units': 120, 'kernel': '5', 'epochs': 459, 'batch_size': 135}
+Best performance (MSE): 45.933315397096095
+
+Trial #20
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0020891036609189, 'activation': 'sigmoid', 'dropout_rate': 0.4144428980142512, 'lstm_units': 194, 'dense_units': 245, 'kernel': '15', 'epochs': 231, 'batch_size': 384}
+Best performance (MSE): 46.28713505563646
+
+Trial #21
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0011925003292703902, 'activation': 'sigmoid', 'dropout_rate': 0.46768036654663236, 'lstm_units': 420, 'dense_units': 82, 'kernel': '15', 'epochs': 370, 'batch_size': 151}
+Best performance (MSE): 46.135865261736754
+
+Trial #22
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00538203634588166, 'activation': 'sigmoid', 'dropout_rate': 0.46692506735323497, 'lstm_units': 411, 'dense_units': 101, 'kernel': '15', 'epochs': 381, 'batch_size': 261}
+Best performance (MSE): 45.84725301092752
+
+Trial #23
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.001093505919867827, 'activation': 'sigmoid', 'dropout_rate': 0.46654378180557643, 'lstm_units': 387, 'dense_units': 159, 'kernel': '15', 'epochs': 458, 'batch_size': 320}
+Best performance (MSE): 45.941714422245504
+
+Trial #24
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003185655305712117, 'activation': 'sigmoid', 'dropout_rate': 0.49997903730130244, 'lstm_units': 454, 'dense_units': 114, 'kernel': '15', 'epochs': 441, 'batch_size': 74}
+Best performance (MSE): 46.02031442887327
+
+Trial #25
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009273321771067766, 'activation': 'sigmoid', 'dropout_rate': 0.45290367594436864, 'lstm_units': 303, 'dense_units': 75, 'kernel': '15', 'epochs': 325, 'batch_size': 303}
+Best performance (MSE): 46.410316080567426
+
+Trial #26
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004791212638152653, 'activation': 'sigmoid', 'dropout_rate': 0.4768238159903067, 'lstm_units': 70, 'dense_units': 57, 'kernel': '15', 'epochs': 390, 'batch_size': 164}
+Best performance (MSE): 46.384880938002176
+
+Trial #27
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.002064051742823948, 'activation': 'sigmoid', 'dropout_rate': 0.430427870779826, 'lstm_units': 443, 'dense_units': 89, 'kernel': '5', 'epochs': 499, 'batch_size': 250}
+Best performance (MSE): 46.42711068660339
+
+Trial #28
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.0006187315707001752, 'activation': 'tanh', 'dropout_rate': 0.4780071565412554, 'lstm_units': 260, 'dense_units': 133, 'kernel': '10', 'epochs': 221, 'batch_size': 353}
+Best performance (MSE): 46.08365574959719
+
+Trial #29
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.006329392356415186, 'activation': 'sigmoid', 'dropout_rate': 0.44871176766211274, 'lstm_units': 334, 'dense_units': 163, 'kernel': '3', 'epochs': 50, 'batch_size': 117}
+Best performance (MSE): 46.17782233665327
+
+Trial #30
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0034944088253018204, 'activation': 'relu', 'dropout_rate': 0.41353757053494183, 'lstm_units': 268, 'dense_units': 107, 'kernel': '15', 'epochs': 468, 'batch_size': 394}
+Best performance (MSE): 46.02507571223662
+
+Trial #31
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006437578593080747, 'activation': 'sigmoid', 'dropout_rate': 0.46278333612201855, 'lstm_units': 396, 'dense_units': 91, 'kernel': '15', 'epochs': 383, 'batch_size': 248}
+Best performance (MSE): 46.25034964227929
+
+Trial #32
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005749730228119902, 'activation': 'sigmoid', 'dropout_rate': 0.47882511021693686, 'lstm_units': 427, 'dense_units': 68, 'kernel': '15', 'epochs': 297, 'batch_size': 274}
+Best performance (MSE): 46.019796733165194
+
+Trial #33
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0037009935652545676, 'activation': 'sigmoid', 'dropout_rate': 0.4804970087705802, 'lstm_units': 382, 'dense_units': 131, 'kernel': '15', 'epochs': 422, 'batch_size': 303}
+Best performance (MSE): 46.259973222520685
+
+Trial #34
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007556609308373461, 'activation': 'sigmoid', 'dropout_rate': 0.463573383738102, 'lstm_units': 454, 'dense_units': 51, 'kernel': '15', 'epochs': 359, 'batch_size': 228}
+Best performance (MSE): 46.09133589817488
+
+Trial #35
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.004790918150021559, 'activation': 'tanh', 'dropout_rate': 0.43467887917628745, 'lstm_units': 351, 'dense_units': 99, 'kernel': '3', 'epochs': 323, 'batch_size': 441}
+Best performance (MSE): 45.819700771987556
+
+Trial #36
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.002180386312636993, 'activation': 'tanh', 'dropout_rate': 0.4372790657799034, 'lstm_units': 230, 'dense_units': 81, 'kernel': '3', 'epochs': 263, 'batch_size': 395}
+Best performance (MSE): 46.40927821356799
+
+Trial #37
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.007189595092150247, 'activation': 'tanh', 'dropout_rate': 0.4266584716899254, 'lstm_units': 314, 'dense_units': 64, 'kernel': '3', 'epochs': 316, 'batch_size': 447}
+Best performance (MSE): 46.080110711823565
+
+Trial #38
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.004238157719259833, 'activation': 'tanh', 'dropout_rate': 0.3979949043375641, 'lstm_units': 279, 'dense_units': 266, 'kernel': '3', 'epochs': 206, 'batch_size': 419}
+Best performance (MSE): 46.27851314773872
+
+Trial #39
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.002624346395155414, 'activation': 'tanh', 'dropout_rate': 0.44880865984459895, 'lstm_units': 347, 'dense_units': 143, 'kernel': '3', 'epochs': 273, 'batch_size': 478}
+Best performance (MSE): 46.466346071959876
+
+Trial #40
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0013424368306441212, 'activation': 'relu', 'dropout_rate': 0.4835156129895798, 'lstm_units': 479, 'dense_units': 122, 'kernel': '3', 'epochs': 474, 'batch_size': 453}
+Best performance (MSE): 46.09898725811087
+
+Trial #41
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.004564887340884487, 'activation': 'tanh', 'dropout_rate': 0.45450822078116526, 'lstm_units': 363, 'dense_units': 98, 'kernel': '15', 'epochs': 341, 'batch_size': 179}
+Best performance (MSE): 45.95756829345702
+
+Trial #42
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009973942313885093, 'activation': 'tanh', 'dropout_rate': 0.43598310358270137, 'lstm_units': 407, 'dense_units': 109, 'kernel': '5', 'epochs': 397, 'batch_size': 357}
+Best performance (MSE): 46.04007129831415
+
+Trial #43
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.006895733477829252, 'activation': 'relu', 'dropout_rate': 0.49927027766237075, 'lstm_units': 374, 'dense_units': 84, 'kernel': '15', 'epochs': 320, 'batch_size': 269}
+Best performance (MSE): 46.36890683770626
+
+Trial #44
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.003086471880577614, 'activation': 'sigmoid', 'dropout_rate': 0.4826287578802017, 'lstm_units': 349, 'dense_units': 103, 'kernel': '3', 'epochs': 437, 'batch_size': 65}
+Best performance (MSE): 45.872216807012016
+
+Trial #45
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.003907093969502216, 'activation': 'sigmoid', 'dropout_rate': 0.4697474380355973, 'lstm_units': 433, 'dense_units': 64, 'kernel': '15', 'epochs': 369, 'batch_size': 511}
+Best performance (MSE): 46.77900409058313
+
+Trial #46
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005633323352576038, 'activation': 'tanh', 'dropout_rate': 0.4873015455343576, 'lstm_units': 472, 'dense_units': 79, 'kernel': '10', 'epochs': 480, 'batch_size': 340}
+Best performance (MSE): 45.758454285961264
+
+Trial #47
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007823698585004972, 'activation': 'tanh', 'dropout_rate': 0.48462048041927136, 'lstm_units': 473, 'dense_units': 50, 'kernel': '10', 'epochs': 482, 'batch_size': 338}
+Best performance (MSE): 45.958875503441504
+
+Trial #48
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0024488898414680316, 'activation': 'tanh', 'dropout_rate': 0.49222381845332847, 'lstm_units': 492, 'dense_units': 76, 'kernel': '10', 'epochs': 445, 'batch_size': 303}
+Best performance (MSE): 46.11021887429579
+
+Trial #49
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.0016022959202204984, 'activation': 'tanh', 'dropout_rate': 0.45459505987122983, 'lstm_units': 509, 'dense_units': 193, 'kernel': '10', 'epochs': 416, 'batch_size': 371}
+Best performance (MSE): 45.976362338839245
+
+Trial #50
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.0049517593480933285, 'activation': 'tanh', 'dropout_rate': 0.44150837207948, 'lstm_units': 290, 'dense_units': 64, 'kernel': '10', 'epochs': 500, 'batch_size': 326}
+Best performance (MSE): 46.148582235526845
+
+Trial #51
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0054859179969253625, 'activation': 'sigmoid', 'dropout_rate': 0.48893489497470444, 'lstm_units': 396, 'dense_units': 97, 'kernel': '15', 'epochs': 480, 'batch_size': 482}
+Best performance (MSE): 45.95453262090957
+
+Trial #52
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00794620770508121, 'activation': 'sigmoid', 'dropout_rate': 0.4725535046495215, 'lstm_units': 317, 'dense_units': 83, 'kernel': '10', 'epochs': 380, 'batch_size': 426}
+Best performance (MSE): 45.805360998031695
+
+Trial #53
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008228157277887897, 'activation': 'relu', 'dropout_rate': 0.4739281298469121, 'lstm_units': 328, 'dense_units': 83, 'kernel': '10', 'epochs': 343, 'batch_size': 442}
+Best performance (MSE): 45.30835875092911
+
+Trial #54
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009763840524801632, 'activation': 'relu', 'dropout_rate': 0.49874593103478365, 'lstm_units': 323, 'dense_units': 86, 'kernel': '10', 'epochs': 402, 'batch_size': 428}
+Best performance (MSE): 45.87402392324294
+
+Trial #55
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008422061289916793, 'activation': 'relu', 'dropout_rate': 0.4738407323769168, 'lstm_units': 319, 'dense_units': 76, 'kernel': '10', 'epochs': 453, 'batch_size': 412}
+Best performance (MSE): 45.98342617070901
+
+Trial #56
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007158063111057094, 'activation': 'relu', 'dropout_rate': 0.48849463886242683, 'lstm_units': 240, 'dense_units': 62, 'kernel': '10', 'epochs': 425, 'batch_size': 461}
+Best performance (MSE): 46.28483423907285
+
+Trial #57
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003063990410566277, 'activation': 'relu', 'dropout_rate': 0.4594140079577209, 'lstm_units': 309, 'dense_units': 126, 'kernel': '10', 'epochs': 347, 'batch_size': 376}
+Best performance (MSE): 45.762504708790345
+
+Trial #58
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003006196890933601, 'activation': 'relu', 'dropout_rate': 0.45590903140430616, 'lstm_units': 283, 'dense_units': 127, 'kernel': '10', 'epochs': 284, 'batch_size': 291}
+Best performance (MSE): 45.88422313018511
+
+Trial #59
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003858762836925466, 'activation': 'relu', 'dropout_rate': 0.4610811800337912, 'lstm_units': 304, 'dense_units': 112, 'kernel': '10', 'epochs': 351, 'batch_size': 342}
+Best performance (MSE): 46.50760231887171
+
+Trial #60
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006313771471834647, 'activation': 'relu', 'dropout_rate': 0.49994123581988087, 'lstm_units': 338, 'dense_units': 152, 'kernel': '5', 'epochs': 483, 'batch_size': 377}
+Best performance (MSE): 46.552617936515816
+
+Trial #61
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008177153867305732, 'activation': 'relu', 'dropout_rate': 0.4737383004212306, 'lstm_units': 310, 'dense_units': 89, 'kernel': '10', 'epochs': 362, 'batch_size': 395}
+Best performance (MSE): 46.2654176449233
+
+Trial #62
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009734070834592401, 'activation': 'sigmoid', 'dropout_rate': 0.4741751084627753, 'lstm_units': 334, 'dense_units': 79, 'kernel': '10', 'epochs': 338, 'batch_size': 349}
+Best performance (MSE): 46.35620232398942
+
+Trial #63
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005835357049396711, 'activation': 'sigmoid', 'dropout_rate': 0.48815239128029564, 'lstm_units': 270, 'dense_units': 71, 'kernel': '10', 'epochs': 384, 'batch_size': 313}
+Best performance (MSE): 45.88781187807658
+
+Trial #64
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004058856163037292, 'activation': 'relu', 'dropout_rate': 0.46131528672679917, 'lstm_units': 294, 'dense_units': 59, 'kernel': '10', 'epochs': 467, 'batch_size': 431}
+Best performance (MSE): 46.13301495295992
+
+Trial #65
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.002786957431400334, 'activation': 'sigmoid', 'dropout_rate': 0.4719602955214771, 'lstm_units': 457, 'dense_units': 94, 'kernel': '10', 'epochs': 307, 'batch_size': 368}
+Best performance (MSE): 46.32481969196305
+
+Trial #66
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007933696136860353, 'activation': 'sigmoid', 'dropout_rate': 0.4885664037214276, 'lstm_units': 254, 'dense_units': 121, 'kernel': '10', 'epochs': 241, 'batch_size': 294}
+Best performance (MSE): 45.84278832337914
+
+Trial #67
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005548516604828079, 'activation': 'relu', 'dropout_rate': 0.4796306464155311, 'lstm_units': 360, 'dense_units': 140, 'kernel': '10', 'epochs': 414, 'batch_size': 405}
+Best performance (MSE): 46.34622388737073
+
+Trial #68
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00350621865311722, 'activation': 'sigmoid', 'dropout_rate': 0.44207548061850205, 'lstm_units': 329, 'dense_units': 71, 'kernel': '15', 'epochs': 163, 'batch_size': 489}
+Best performance (MSE): 45.918839162320864
+
+Trial #69
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0068191743720906325, 'activation': 'sigmoid', 'dropout_rate': 0.46282231536722374, 'lstm_units': 377, 'dense_units': 56, 'kernel': '5', 'epochs': 434, 'batch_size': 98}
+Best performance (MSE): 46.29113249686373
+
+Trial #70
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0046242406734178934, 'activation': 'sigmoid', 'dropout_rate': 0.44978601790242945, 'lstm_units': 191, 'dense_units': 105, 'kernel': '10', 'epochs': 371, 'batch_size': 327}
+Best performance (MSE): 45.881436752478336
+
+Trial #71
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004827349878924353, 'activation': 'tanh', 'dropout_rate': 0.4695291068795239, 'lstm_units': 356, 'dense_units': 85, 'kernel': '3', 'epochs': 331, 'batch_size': 437}
+Best performance (MSE): 45.747496685139104
+
+Trial #72
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006024866842785386, 'activation': 'tanh', 'dropout_rate': 0.4692637233890036, 'lstm_units': 395, 'dense_units': 84, 'kernel': '15', 'epochs': 331, 'batch_size': 460}
+Best performance (MSE): 46.10292413105216
+
+Trial #73
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008267706390748704, 'activation': 'relu', 'dropout_rate': 0.49017813469021737, 'lstm_units': 356, 'dense_units': 90, 'kernel': '3', 'epochs': 305, 'batch_size': 433}
+Best performance (MSE): 46.184052881840714
+
+Trial #74
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005463538875325889, 'activation': 'sigmoid', 'dropout_rate': 0.47818608677751834, 'lstm_units': 304, 'dense_units': 75, 'kernel': '15', 'epochs': 351, 'batch_size': 384}
+Best performance (MSE): 46.12298732219785
+
+Trial #75
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004165241923956256, 'activation': 'tanh', 'dropout_rate': 0.45866254303171633, 'lstm_units': 444, 'dense_units': 226, 'kernel': '10', 'epochs': 450, 'batch_size': 210}
+Best performance (MSE): 46.10214203183334
+
+Trial #76
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.006995124208693566, 'activation': 'sigmoid', 'dropout_rate': 0.44430652124023123, 'lstm_units': 484, 'dense_units': 112, 'kernel': '15', 'epochs': 375, 'batch_size': 230}
+Best performance (MSE): 46.00486319264662
+
+Trial #77
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003303550069397578, 'activation': 'tanh', 'dropout_rate': 0.4934483245457453, 'lstm_units': 417, 'dense_units': 81, 'kernel': '3', 'epochs': 392, 'batch_size': 317}
+Best performance (MSE): 46.48792232195242
+
+Trial #78
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0023682953804930033, 'activation': 'sigmoid', 'dropout_rate': 0.48240075141138716, 'lstm_units': 274, 'dense_units': 177, 'kernel': '10', 'epochs': 289, 'batch_size': 494}
+Best performance (MSE): 45.899058611854215
+
+Trial #79
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00861006721799212, 'activation': 'relu', 'dropout_rate': 0.46813203469615516, 'lstm_units': 343, 'dense_units': 68, 'kernel': '15', 'epochs': 136, 'batch_size': 408}
+Best performance (MSE): 45.44742904243114
+
+Trial #80
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0047705208727605005, 'activation': 'relu', 'dropout_rate': 0.42649869938549173, 'lstm_units': 389, 'dense_units': 56, 'kernel': '15', 'epochs': 139, 'batch_size': 401}
+Best performance (MSE): 46.204206482940435
+
+Trial #81
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008900963714451239, 'activation': 'relu', 'dropout_rate': 0.46286594813561466, 'lstm_units': 341, 'dense_units': 67, 'kernel': '15', 'epochs': 51, 'batch_size': 423}
+Best performance (MSE): 46.40892219344882
+
+Trial #82
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00995193769593174, 'activation': 'relu', 'dropout_rate': 0.4692713541374428, 'lstm_units': 367, 'dense_units': 94, 'kernel': '15', 'epochs': 197, 'batch_size': 469}
+Best performance (MSE): 46.14367078864647
+
+Trial #83
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006924846823587304, 'activation': 'relu', 'dropout_rate': 0.4526890949783761, 'lstm_units': 317, 'dense_units': 74, 'kernel': '15', 'epochs': 79, 'batch_size': 444}
+Best performance (MSE): 45.98745267187506
+
+Trial #84
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00824730387654201, 'activation': 'relu', 'dropout_rate': 0.4815450097735677, 'lstm_units': 333, 'dense_units': 85, 'kernel': '15', 'epochs': 490, 'batch_size': 410}
+Best performance (MSE): 45.85517927953552
+
+Trial #85
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006111592142404342, 'activation': 'tanh', 'dropout_rate': 0.49396700088037093, 'lstm_units': 463, 'dense_units': 61, 'kernel': '5', 'epochs': 333, 'batch_size': 387}
+Best performance (MSE): 46.15863079753441
+
+Trial #86
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004553415976099072, 'activation': 'sigmoid', 'dropout_rate': 0.4752012992213039, 'lstm_units': 348, 'dense_units': 168, 'kernel': '3', 'epochs': 470, 'batch_size': 363}
+Best performance (MSE): 45.6835078475294
+
+Trial #87
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0018579292074146943, 'activation': 'sigmoid', 'dropout_rate': 0.4843941009067329, 'lstm_units': 369, 'dense_units': 162, 'kernel': '3', 'epochs': 184, 'batch_size': 359}
+Best performance (MSE): 46.25133447479473
+
+Trial #88
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005142437000972611, 'activation': 'tanh', 'dropout_rate': 0.4669554638716466, 'lstm_units': 349, 'dense_units': 190, 'kernel': '3', 'epochs': 464, 'batch_size': 341}
+Best performance (MSE): 45.82510484118676
+
+Trial #89
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.002821345376198025, 'activation': 'relu', 'dropout_rate': 0.49992342686600083, 'lstm_units': 381, 'dense_units': 150, 'kernel': '3', 'epochs': 474, 'batch_size': 377}
+Best performance (MSE): 46.136930001497745
+
+Trial #90
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003570796874815972, 'activation': 'sigmoid', 'dropout_rate': 0.4757283277031644, 'lstm_units': 405, 'dense_units': 172, 'kernel': '3', 'epochs': 493, 'batch_size': 257}
+Best performance (MSE): 45.95078971787715
+
+Trial #91
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007554755784613096, 'activation': 'sigmoid', 'dropout_rate': 0.4573828277988044, 'lstm_units': 312, 'dense_units': 295, 'kernel': '15', 'epochs': 362, 'batch_size': 417}
+Best performance (MSE): 46.32404052552798
+
+Trial #92
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004595428387439761, 'activation': 'sigmoid', 'dropout_rate': 0.4474318832491452, 'lstm_units': 326, 'dense_units': 69, 'kernel': '3', 'epochs': 346, 'batch_size': 274}
+Best performance (MSE): 46.46488992484796
+
+Trial #93
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006271957037005754, 'activation': 'sigmoid', 'dropout_rate': 0.492800992656685, 'lstm_units': 293, 'dense_units': 220, 'kernel': '10', 'epochs': 122, 'batch_size': 351}
+Best performance (MSE): 46.12581625772564
+
+Trial #94
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008661113809072423, 'activation': 'sigmoid', 'dropout_rate': 0.4745866246666962, 'lstm_units': 355, 'dense_units': 103, 'kernel': '15', 'epochs': 404, 'batch_size': 312}
+Best performance (MSE): 45.93551529364295
+
+Trial #95
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005400779301059098, 'activation': 'sigmoid', 'dropout_rate': 0.4849842633403381, 'lstm_units': 432, 'dense_units': 250, 'kernel': '10', 'epochs': 444, 'batch_size': 436}
+Best performance (MSE): 45.67378305687157
+
+Trial #96
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004013405973554905, 'activation': 'tanh', 'dropout_rate': 0.48464212467671347, 'lstm_units': 442, 'dense_units': 208, 'kernel': '3', 'epochs': 452, 'batch_size': 284}
+Best performance (MSE): 45.82993278111815
+
+Trial #97
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005152942514320264, 'activation': 'relu', 'dropout_rate': 0.46569165758971426, 'lstm_units': 494, 'dense_units': 253, 'kernel': '10', 'epochs': 475, 'batch_size': 438}
+Best performance (MSE): 46.403536582709876
+
+Trial #98
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.003023521607892282, 'activation': 'sigmoid', 'dropout_rate': 0.49331675770592226, 'lstm_units': 428, 'dense_units': 205, 'kernel': '15', 'epochs': 441, 'batch_size': 335}
+Best performance (MSE): 45.554567055023234
+
+Trial #99
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0030873532844349102, 'activation': 'sigmoid', 'dropout_rate': 0.49577295705963687, 'lstm_units': 340, 'dense_units': 240, 'kernel': '15', 'epochs': 440, 'batch_size': 332}
+Best performance (MSE): 46.651140143039484
+
+Trial #100
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0025727306026747557, 'activation': 'relu', 'dropout_rate': 0.4867277680764677, 'lstm_units': 423, 'dense_units': 201, 'kernel': '10', 'epochs': 460, 'batch_size': 365}
+Best performance (MSE): 45.986062382413344
+
+Trial #101
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0042335059614632894, 'activation': 'sigmoid', 'dropout_rate': 0.4806539332144938, 'lstm_units': 469, 'dense_units': 188, 'kernel': '15', 'epochs': 487, 'batch_size': 452}
+Best performance (MSE): 46.15574830346258
+
+Trial #102
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.00643359547145721, 'activation': 'sigmoid', 'dropout_rate': 0.4914370465480954, 'lstm_units': 439, 'dense_units': 225, 'kernel': '15', 'epochs': 425, 'batch_size': 299}
+Best performance (MSE): 46.13952724972978
+
+Trial #103
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0035243843418276185, 'activation': 'sigmoid', 'dropout_rate': 0.4777280387546558, 'lstm_units': 373, 'dense_units': 280, 'kernel': '15', 'epochs': 444, 'batch_size': 348}
+Best performance (MSE): 45.912906940906325
+
+Trial #104
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.005289958874167888, 'activation': 'sigmoid', 'dropout_rate': 0.46959560767420516, 'lstm_units': 433, 'dense_units': 252, 'kernel': '15', 'epochs': 472, 'batch_size': 376}
+Best performance (MSE): 46.240886011452695
+
+Trial #105
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0022003598847487728, 'activation': 'sigmoid', 'dropout_rate': 0.45694578262115876, 'lstm_units': 451, 'dense_units': 168, 'kernel': '15', 'epochs': 499, 'batch_size': 393}
+Best performance (MSE): 45.908270582154024
+
+Trial #106
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007237729346830898, 'activation': 'tanh', 'dropout_rate': 0.48698002739429164, 'lstm_units': 413, 'dense_units': 80, 'kernel': '10', 'epochs': 314, 'batch_size': 150}
+Best performance (MSE): 46.30790455931469
+
+Trial #107
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009015159358328612, 'activation': 'sigmoid', 'dropout_rate': 0.4998289163899933, 'lstm_units': 427, 'dense_units': 127, 'kernel': '5', 'epochs': 263, 'batch_size': 331}
+Best performance (MSE): 46.58136337161133
+
+Trial #108
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.006047983950183598, 'activation': 'sigmoid', 'dropout_rate': 0.46472300029929103, 'lstm_units': 285, 'dense_units': 137, 'kernel': '3', 'epochs': 458, 'batch_size': 315}
+Best performance (MSE): 46.27824754061164
+
+Trial #109
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004604784733267204, 'activation': 'relu', 'dropout_rate': 0.47640724340511464, 'lstm_units': 479, 'dense_units': 269, 'kernel': '15', 'epochs': 427, 'batch_size': 307}
+Best performance (MSE): 46.097205727779254
+
+Trial #110
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003123748933066752, 'activation': 'tanh', 'dropout_rate': 0.49406183680757104, 'lstm_units': 401, 'dense_units': 53, 'kernel': '10', 'epochs': 484, 'batch_size': 402}
+Best performance (MSE): 45.95097560305947
+
+Trial #111
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0076853239516631, 'activation': 'sigmoid', 'dropout_rate': 0.47241581711331104, 'lstm_units': 326, 'dense_units': 88, 'kernel': '10', 'epochs': 353, 'batch_size': 423}
+Best performance (MSE): 46.0483333483281
+
+Trial #112
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008562214335115207, 'activation': 'sigmoid', 'dropout_rate': 0.4857319860474216, 'lstm_units': 305, 'dense_units': 98, 'kernel': '10', 'epochs': 381, 'batch_size': 463}
+Best performance (MSE): 46.162985814579585
+
+Trial #113
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005345708680312277, 'activation': 'sigmoid', 'dropout_rate': 0.4518647445418865, 'lstm_units': 342, 'dense_units': 66, 'kernel': '10', 'epochs': 328, 'batch_size': 432}
+Best performance (MSE): 46.043275413584176
+
+Trial #114
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006512774755310063, 'activation': 'sigmoid', 'dropout_rate': 0.4706553221151703, 'lstm_units': 320, 'dense_units': 76, 'kernel': '10', 'epochs': 413, 'batch_size': 449}
+Best performance (MSE): 45.884379710311784
+
+Trial #115
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007446744803494971, 'activation': 'sigmoid', 'dropout_rate': 0.48026330578881415, 'lstm_units': 360, 'dense_units': 81, 'kernel': '10', 'epochs': 390, 'batch_size': 415}
+Best performance (MSE): 46.523462378195454
+
+Trial #116
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009896445419136425, 'activation': 'sigmoid', 'dropout_rate': 0.45838713461166386, 'lstm_units': 106, 'dense_units': 92, 'kernel': '15', 'epochs': 360, 'batch_size': 323}
+Best performance (MSE): 46.37021166404183
+
+Trial #117
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00405941647303696, 'activation': 'relu', 'dropout_rate': 0.44546300672511163, 'lstm_units': 385, 'dense_units': 155, 'kernel': '10', 'epochs': 338, 'batch_size': 363}
+Best performance (MSE): 45.939292980055036
+
+Trial #118
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.005615608335814612, 'activation': 'sigmoid', 'dropout_rate': 0.48921684128403364, 'lstm_units': 350, 'dense_units': 71, 'kernel': '3', 'epochs': 466, 'batch_size': 386}
+Best performance (MSE): 46.19756294152551
+
+Trial #119
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0009198218631787251, 'activation': 'tanh', 'dropout_rate': 0.4652009217360209, 'lstm_units': 301, 'dense_units': 182, 'kernel': '15', 'epochs': 437, 'batch_size': 341}
+Best performance (MSE): 46.071990642208426
+
+Trial #120
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.0036184985586117276, 'activation': 'relu', 'dropout_rate': 0.4760603462293922, 'lstm_units': 313, 'dense_units': 108, 'kernel': '10', 'epochs': 373, 'batch_size': 408}
+Best performance (MSE): 45.9021441302915
+
+Trial #121
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.004819544373920384, 'activation': 'tanh', 'dropout_rate': 0.4379781904510916, 'lstm_units': 335, 'dense_units': 99, 'kernel': '3', 'epochs': 340, 'batch_size': 438}
+Best performance (MSE): 46.07119045439935
+
+Trial #122
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.006668670704778943, 'activation': 'tanh', 'dropout_rate': 0.46052239741205353, 'lstm_units': 351, 'dense_units': 88, 'kernel': '3', 'epochs': 323, 'batch_size': 473}
+Best performance (MSE): 45.67816754215106
+
+Trial #123
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.006676042268543441, 'activation': 'tanh', 'dropout_rate': 0.48136512709782964, 'lstm_units': 365, 'dense_units': 84, 'kernel': '3', 'epochs': 315, 'batch_size': 478}
+Best performance (MSE): 46.2096080411962
+
+Trial #124
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.008611773455673136, 'activation': 'tanh', 'dropout_rate': 0.4611041499494933, 'lstm_units': 331, 'dense_units': 115, 'kernel': '3', 'epochs': 307, 'batch_size': 496}
+Best performance (MSE): 45.921225285787614
+
+Trial #125
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.007500973528326375, 'activation': 'tanh', 'dropout_rate': 0.4953519071255802, 'lstm_units': 347, 'dense_units': 60, 'kernel': '3', 'epochs': 325, 'batch_size': 471}
+Best performance (MSE): 45.874831670031206
+
+Trial #126
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009916858076859032, 'activation': 'sigmoid', 'dropout_rate': 0.45534701007319234, 'lstm_units': 512, 'dense_units': 77, 'kernel': '15', 'epochs': 494, 'batch_size': 458}
+Best performance (MSE): 46.10105492471385
+
+Trial #127
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006020340928354436, 'activation': 'tanh', 'dropout_rate': 0.4698385565308948, 'lstm_units': 322, 'dense_units': 87, 'kernel': '3', 'epochs': 298, 'batch_size': 429}
+Best performance (MSE): 46.064034095951754
+
+Trial #128
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0016348562122915807, 'activation': 'relu', 'dropout_rate': 0.4846957278647608, 'lstm_units': 359, 'dense_units': 95, 'kernel': '10', 'epochs': 479, 'batch_size': 188}
+Best performance (MSE): 46.21817856089601
+
+Trial #129
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0019580511165227183, 'activation': 'sigmoid', 'dropout_rate': 0.4723943075510396, 'lstm_units': 294, 'dense_units': 73, 'kernel': '5', 'epochs': 355, 'batch_size': 287}
+Best performance (MSE): 45.89486011269651
+
+Trial #130
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.004213094107618521, 'activation': 'sigmoid', 'dropout_rate': 0.4914050432395611, 'lstm_units': 393, 'dense_units': 287, 'kernel': '15', 'epochs': 448, 'batch_size': 444}
+Best performance (MSE): 46.202912455887656
+
+Trial #131
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.004653752395353519, 'activation': 'tanh', 'dropout_rate': 0.4484915502156357, 'lstm_units': 376, 'dense_units': 89, 'kernel': '3', 'epochs': 286, 'batch_size': 422}
+Best performance (MSE): 45.89824413440535
+
+Trial #132
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.005575656500636487, 'activation': 'tanh', 'dropout_rate': 0.46390179053123437, 'lstm_units': 347, 'dense_units': 66, 'kernel': '3', 'epochs': 276, 'batch_size': 438}
+Best performance (MSE): 45.570316060480835
+
+Trial #133
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.005596439010698022, 'activation': 'tanh', 'dropout_rate': 0.46245936975081686, 'lstm_units': 342, 'dense_units': 65, 'kernel': '3', 'epochs': 471, 'batch_size': 438}
+Best performance (MSE): 45.82829201368863
+
+Trial #134
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.007127669544530696, 'activation': 'tanh', 'dropout_rate': 0.47401327174888247, 'lstm_units': 310, 'dense_units': 56, 'kernel': '3', 'epochs': 241, 'batch_size': 468}
+Best performance (MSE): 46.07254743792504
+
+Trial #135
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.00870247701913651, 'activation': 'tanh', 'dropout_rate': 0.4805398773704857, 'lstm_units': 330, 'dense_units': 79, 'kernel': '3', 'epochs': 275, 'batch_size': 451}
+Best performance (MSE): 46.3404424288247
+
+Trial #136
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006424340617165662, 'activation': 'tanh', 'dropout_rate': 0.4668579417854898, 'lstm_units': 349, 'dense_units': 69, 'kernel': '10', 'epochs': 255, 'batch_size': 398}
+Best performance (MSE): 46.359808181899865
+
+Trial #137
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.002695878908351753, 'activation': 'relu', 'dropout_rate': 0.4545142320305853, 'lstm_units': 458, 'dense_units': 213, 'kernel': '15', 'epochs': 455, 'batch_size': 483}
+Best performance (MSE): 46.150524742971484
+
+Trial #138
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.0051493611793072555, 'activation': 'sigmoid', 'dropout_rate': 0.48615981440286926, 'lstm_units': 367, 'dense_units': 50, 'kernel': '3', 'epochs': 369, 'batch_size': 357}
+Best performance (MSE): 46.140972178715984
+
+Trial #139
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.008129834337735063, 'activation': 'sigmoid', 'dropout_rate': 0.44306483165368227, 'lstm_units': 319, 'dense_units': 61, 'kernel': '10', 'epochs': 222, 'batch_size': 372}
+Best performance (MSE): 45.96932871619636
+
+Trial #140
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0034975193648214345, 'activation': 'tanh', 'dropout_rate': 0.49987855468480435, 'lstm_units': 497, 'dense_units': 71, 'kernel': '15', 'epochs': 343, 'batch_size': 501}
+Best performance (MSE): 45.75195463010871
+
+Trial #141
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0037050991965350342, 'activation': 'tanh', 'dropout_rate': 0.49534691066108066, 'lstm_units': 501, 'dense_units': 74, 'kernel': '15', 'epochs': 347, 'batch_size': 498}
+Best performance (MSE): 45.998874914173555
+
+Trial #142
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0031145552652212384, 'activation': 'tanh', 'dropout_rate': 0.4897649171745925, 'lstm_units': 476, 'dense_units': 81, 'kernel': '15', 'epochs': 335, 'batch_size': 506}
+Best performance (MSE): 45.9969434700744
+
+Trial #143
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004170261772072454, 'activation': 'tanh', 'dropout_rate': 0.4786356201565804, 'lstm_units': 468, 'dense_units': 68, 'kernel': '15', 'epochs': 363, 'batch_size': 456}
+Best performance (MSE): 46.35409435423958
+
+Trial #144
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0023068702753014643, 'activation': 'tanh', 'dropout_rate': 0.49981603466115576, 'lstm_units': 492, 'dense_units': 144, 'kernel': '15', 'epochs': 322, 'batch_size': 489}
+Best performance (MSE): 46.007070727783265
+
+Trial #145
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0013136052732737138, 'activation': 'tanh', 'dropout_rate': 0.3448732787710812, 'lstm_units': 484, 'dense_units': 84, 'kernel': '15', 'epochs': 345, 'batch_size': 109}
+Best performance (MSE): 45.96755946262631
+
+Trial #146
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005670416489521832, 'activation': 'relu', 'dropout_rate': 0.49168028520312373, 'lstm_units': 448, 'dense_units': 201, 'kernel': '10', 'epochs': 485, 'batch_size': 267}
+Best performance (MSE): 45.65724859437588
+
+Trial #147
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003432534605131739, 'activation': 'relu', 'dropout_rate': 0.49365648790804406, 'lstm_units': 439, 'dense_units': 236, 'kernel': '15', 'epochs': 488, 'batch_size': 264}
+Best performance (MSE): 46.492283785737555
+
+Trial #148
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0050015919663132374, 'activation': 'relu', 'dropout_rate': 0.48699925414031586, 'lstm_units': 421, 'dense_units': 205, 'kernel': '3', 'epochs': 482, 'batch_size': 328}
+Best performance (MSE): 45.98568073147263
+
+Trial #149
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005797073284985006, 'activation': 'relu', 'dropout_rate': 0.4837956992951026, 'lstm_units': 448, 'dense_units': 186, 'kernel': '10', 'epochs': 460, 'batch_size': 505}
+Best performance (MSE): 46.305043115944706
+
+Trial #150
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.002593480388808622, 'activation': 'relu', 'dropout_rate': 0.4992595538408088, 'lstm_units': 433, 'dense_units': 214, 'kernel': '15', 'epochs': 500, 'batch_size': 76}
+Best performance (MSE): 45.75486261081713
+
+Trial #151
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0029093957381031888, 'activation': 'relu', 'dropout_rate': 0.4952469241967083, 'lstm_units': 435, 'dense_units': 200, 'kernel': '15', 'epochs': 491, 'batch_size': 85}
+Best performance (MSE): 45.70161812683052
+
+Trial #152
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.002567339489566328, 'activation': 'relu', 'dropout_rate': 0.49556257154485955, 'lstm_units': 432, 'dense_units': 196, 'kernel': '15', 'epochs': 496, 'batch_size': 77}
+Best performance (MSE): 46.16272963871081
+
+Trial #153
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0039036288921338235, 'activation': 'relu', 'dropout_rate': 0.497976874235217, 'lstm_units': 462, 'dense_units': 216, 'kernel': '15', 'epochs': 476, 'batch_size': 91}
+Best performance (MSE): 46.12003731224714
+
+Trial #154
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.003114105141755535, 'activation': 'relu', 'dropout_rate': 0.48704145724810544, 'lstm_units': 444, 'dense_units': 221, 'kernel': '15', 'epochs': 485, 'batch_size': 84}
+Best performance (MSE): 46.15747929274087
+
+Trial #155
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0028031914253981993, 'activation': 'relu', 'dropout_rate': 0.4924713266760369, 'lstm_units': 416, 'dense_units': 208, 'kernel': '15', 'epochs': 468, 'batch_size': 69}
+Best performance (MSE): 46.25728763465172
+
+Trial #156
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.004365235599640804, 'activation': 'relu', 'dropout_rate': 0.49871465034038426, 'lstm_units': 452, 'dense_units': 196, 'kernel': '15', 'epochs': 495, 'batch_size': 350}
+Best performance (MSE): 46.75321812616539
+
+Trial #157
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.007149853008265134, 'activation': 'relu', 'dropout_rate': 0.47880081583360656, 'lstm_units': 353, 'dense_units': 201, 'kernel': '10', 'epochs': 498, 'batch_size': 295}
+Best performance (MSE): 46.30501540536508
+
+Trial #158
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.002092077496594368, 'activation': 'relu', 'dropout_rate': 0.49173252412907914, 'lstm_units': 404, 'dense_units': 180, 'kernel': '3', 'epochs': 488, 'batch_size': 122}
+Best performance (MSE): 46.104695704489544
+
+Trial #159
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.003396481308175688, 'activation': 'relu', 'dropout_rate': 0.47667204023298315, 'lstm_units': 500, 'dense_units': 232, 'kernel': '15', 'epochs': 478, 'batch_size': 280}
+Best performance (MSE): 46.003960343785536
+
+Trial #160
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.005974938197389815, 'activation': 'relu', 'dropout_rate': 0.4857107122787393, 'lstm_units': 339, 'dense_units': 171, 'kernel': '5', 'epochs': 462, 'batch_size': 336}
+Best performance (MSE): 46.24636660893132
+
+Trial #161
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0005010060356347844, 'activation': 'relu', 'dropout_rate': 0.47177471061564485, 'lstm_units': 430, 'dense_units': 202, 'kernel': '15', 'epochs': 500, 'batch_size': 90}
+Best performance (MSE): 45.9353306202302
+
+Trial #162
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.002491255716402757, 'activation': 'relu', 'dropout_rate': 0.49977613147432287, 'lstm_units': 466, 'dense_units': 260, 'kernel': '15', 'epochs': 470, 'batch_size': 81}
+Best performance (MSE): 45.990850976370005
+
+Trial #163
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0014935296561804357, 'activation': 'tanh', 'dropout_rate': 0.4643748577583151, 'lstm_units': 422, 'dense_units': 212, 'kernel': '15', 'epochs': 310, 'batch_size': 64}
+Best performance (MSE): 45.98255352170674
+
+Trial #164
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.0017125353238730946, 'activation': 'relu', 'dropout_rate': 0.482779486078047, 'lstm_units': 432, 'dense_units': 195, 'kernel': '15', 'epochs': 331, 'batch_size': 98}
+Best performance (MSE): 46.08730311321386
+
+Trial #165
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.005121484514091529, 'activation': 'tanh', 'dropout_rate': 0.49129301738186076, 'lstm_units': 440, 'dense_units': 63, 'kernel': '10', 'epochs': 482, 'batch_size': 381}
+Best performance (MSE): 46.03824450472066
+
+Trial #166
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.003777441985789527, 'activation': 'relu', 'dropout_rate': 0.46035461449001336, 'lstm_units': 452, 'dense_units': 76, 'kernel': '15', 'epochs': 450, 'batch_size': 126}
+Best performance (MSE): 46.6584794130871
+
+Trial #167
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.002018464488209446, 'activation': 'sigmoid', 'dropout_rate': 0.46766813669889934, 'lstm_units': 412, 'dense_units': 247, 'kernel': '3', 'epochs': 297, 'batch_size': 111}
+Best performance (MSE): 46.00339559216698
+
+Trial #168
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0045676940689860735, 'activation': 'tanh', 'dropout_rate': 0.47655540700635496, 'lstm_units': 342, 'dense_units': 218, 'kernel': '10', 'epochs': 490, 'batch_size': 103}
+Best performance (MSE): 46.1417451623698
+
+Trial #169
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0028441448374665426, 'activation': 'relu', 'dropout_rate': 0.4894771588894839, 'lstm_units': 355, 'dense_units': 71, 'kernel': '15', 'epochs': 473, 'batch_size': 307}
+Best performance (MSE): 46.08031436740972
+
+Trial #170
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00687034269200893, 'activation': 'sigmoid', 'dropout_rate': 0.4334427186032197, 'lstm_units': 485, 'dense_units': 228, 'kernel': '3', 'epochs': 319, 'batch_size': 243}
+Best performance (MSE): 46.18813231612791
+
+Trial #171
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.008035297988311194, 'activation': 'sigmoid', 'dropout_rate': 0.4713555753885531, 'lstm_units': 333, 'dense_units': 87, 'kernel': '10', 'epochs': 349, 'batch_size': 415}
+Best performance (MSE): 46.19650753227889
+
+Trial #172
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009056625841907182, 'activation': 'sigmoid', 'dropout_rate': 0.39541520569227945, 'lstm_units': 318, 'dense_units': 92, 'kernel': '10', 'epochs': 358, 'batch_size': 434}
+Best performance (MSE): 46.208509812335905
+
+Trial #173
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006458057577761111, 'activation': 'sigmoid', 'dropout_rate': 0.48112200748114675, 'lstm_units': 325, 'dense_units': 80, 'kernel': '10', 'epochs': 105, 'batch_size': 448}
+Best performance (MSE): 45.814584006580574
+
+Trial #174
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007701090447471947, 'activation': 'sigmoid', 'dropout_rate': 0.49996378782435713, 'lstm_units': 304, 'dense_units': 68, 'kernel': '10', 'epochs': 384, 'batch_size': 427}
+Best performance (MSE): 46.080245656344076
+
+Trial #175
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005541687317899113, 'activation': 'sigmoid', 'dropout_rate': 0.45250277876939116, 'lstm_units': 460, 'dense_units': 58, 'kernel': '10', 'epochs': 338, 'batch_size': 464}
+Best performance (MSE): 46.033379668978576
+
+Trial #176
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.009889716023293072, 'activation': 'tanh', 'dropout_rate': 0.47526775351890865, 'lstm_units': 359, 'dense_units': 73, 'kernel': '15', 'epochs': 433, 'batch_size': 163}
+Best performance (MSE): 45.96005072908697
+
+Trial #177
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.0046432718946700395, 'activation': 'sigmoid', 'dropout_rate': 0.45942491224049414, 'lstm_units': 335, 'dense_units': 103, 'kernel': '10', 'epochs': 182, 'batch_size': 319}
+Best performance (MSE): 46.099940461087
+
+Trial #178
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.007782667464573702, 'activation': 'relu', 'dropout_rate': 0.467902216360068, 'lstm_units': 310, 'dense_units': 84, 'kernel': '3', 'epochs': 365, 'batch_size': 443}
+Best performance (MSE): 46.24989115238272
+
+Trial #179
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0022832578328422174, 'activation': 'tanh', 'dropout_rate': 0.48278450167348796, 'lstm_units': 370, 'dense_units': 90, 'kernel': '15', 'epochs': 396, 'batch_size': 227}
+Best performance (MSE): 46.10694908559129
+
+Trial #180
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.006571721039211525, 'activation': 'sigmoid', 'dropout_rate': 0.4902843995801594, 'lstm_units': 380, 'dense_units': 76, 'kernel': '10', 'epochs': 375, 'batch_size': 405}
+Best performance (MSE): 45.93108449958609
+
+Trial #181
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00612073712560076, 'activation': 'sigmoid', 'dropout_rate': 0.48131084610380376, 'lstm_units': 327, 'dense_units': 78, 'kernel': '10', 'epochs': 109, 'batch_size': 450}
+Best performance (MSE): 46.44006011895026
+
+Trial #182
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.001106571106321796, 'activation': 'sigmoid', 'dropout_rate': 0.49422574029821215, 'lstm_units': 347, 'dense_units': 81, 'kernel': '10', 'epochs': 95, 'batch_size': 424}
+Best performance (MSE): 46.24644700067451
+
+Trial #183
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.006763354685668214, 'activation': 'sigmoid', 'dropout_rate': 0.48014020367657173, 'lstm_units': 324, 'dense_units': 95, 'kernel': '10', 'epochs': 484, 'batch_size': 437}
+Best performance (MSE): 45.89712400379112
+
+Trial #184
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.005319733010796417, 'activation': 'sigmoid', 'dropout_rate': 0.4867915714033313, 'lstm_units': 426, 'dense_units': 63, 'kernel': '10', 'epochs': 71, 'batch_size': 471}
+Best performance (MSE): 46.00983061087435
+
+Trial #185
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00879685628555682, 'activation': 'sigmoid', 'dropout_rate': 0.4738103568823396, 'lstm_units': 436, 'dense_units': 207, 'kernel': '10', 'epochs': 117, 'batch_size': 445}
+Best performance (MSE): 46.02960052838498
+
+Trial #186
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004015561784124765, 'activation': 'relu', 'dropout_rate': 0.4654378419602574, 'lstm_units': 337, 'dense_units': 71, 'kernel': '15', 'epochs': 344, 'batch_size': 415}
+Best performance (MSE): 45.782816909971515
+
+Trial #187
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.0034001031716397127, 'activation': 'relu', 'dropout_rate': 0.4623507181766613, 'lstm_units': 348, 'dense_units': 71, 'kernel': '15', 'epochs': 144, 'batch_size': 418}
+Best performance (MSE): 45.93248056661803
+
+Trial #188
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0029514086829488867, 'activation': 'relu', 'dropout_rate': 0.4462279180192803, 'lstm_units': 166, 'dense_units': 67, 'kernel': '15', 'epochs': 353, 'batch_size': 410}
+Best performance (MSE): 45.843092946899006
+
+Trial #189
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004167798778631294, 'activation': 'relu', 'dropout_rate': 0.42310911923427963, 'lstm_units': 338, 'dense_units': 199, 'kernel': '15', 'epochs': 341, 'batch_size': 72}
+Best performance (MSE): 46.27355295940164
+
+Trial #190
+Best Hyperparameters: {'optimizer': 'rmsprop', 'learning_rate': 0.0036185632071193117, 'activation': 'relu', 'dropout_rate': 0.46871328847086896, 'lstm_units': 313, 'dense_units': 59, 'kernel': '15', 'epochs': 329, 'batch_size': 389}
+Best performance (MSE): 46.010031200294634
+
+Trial #191
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0057673556293599835, 'activation': 'relu', 'dropout_rate': 0.492633084144418, 'lstm_units': 296, 'dense_units': 77, 'kernel': '15', 'epochs': 152, 'batch_size': 432}
+Best performance (MSE): 45.98181010407048
+
+Trial #192
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.004580214593613516, 'activation': 'tanh', 'dropout_rate': 0.4565838385948028, 'lstm_units': 325, 'dense_units': 83, 'kernel': '3', 'epochs': 347, 'batch_size': 457}
+Best performance (MSE): 45.79977958250305
+
+Trial #193
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0045679187605072585, 'activation': 'tanh', 'dropout_rate': 0.4561055491889438, 'lstm_units': 329, 'dense_units': 83, 'kernel': '3', 'epochs': 344, 'batch_size': 482}
+Best performance (MSE): 45.91714282842784
+
+Trial #194
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00396768951923162, 'activation': 'tanh', 'dropout_rate': 0.45325408376826887, 'lstm_units': 357, 'dense_units': 184, 'kernel': '3', 'epochs': 356, 'batch_size': 347}
+Best performance (MSE): 46.18805076220858
+
+Trial #195
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.00495634212208578, 'activation': 'tanh', 'dropout_rate': 0.46105595818525336, 'lstm_units': 445, 'dense_units': 300, 'kernel': '3', 'epochs': 331, 'batch_size': 363}
+Best performance (MSE): 46.293099289090186
+
+Trial #196
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.0032503552182496756, 'activation': 'tanh', 'dropout_rate': 0.4653168114511582, 'lstm_units': 341, 'dense_units': 191, 'kernel': '3', 'epochs': 323, 'batch_size': 456}
+Best performance (MSE): 46.18820231943687
+
+Trial #197
+Best Hyperparameters: {'optimizer': 'adagrad', 'learning_rate': 0.0008926129828201715, 'activation': 'tanh', 'dropout_rate': 0.47220372315311054, 'lstm_units': 318, 'dense_units': 86, 'kernel': '3', 'epochs': 348, 'batch_size': 426}
+Best performance (MSE): 45.990352133230004
+
+Trial #198
+Best Hyperparameters: {'optimizer': 'sgd', 'learning_rate': 0.002655300375364767, 'activation': 'relu', 'dropout_rate': 0.4420654898543497, 'lstm_units': 476, 'dense_units': 72, 'kernel': '15', 'epochs': 490, 'batch_size': 512}
+Best performance (MSE): 46.370397938137856
+
+Trial #199
+Best Hyperparameters: {'optimizer': 'adam', 'learning_rate': 0.0018309382418372582, 'activation': 'tanh', 'dropout_rate': 0.4877417352058483, 'lstm_units': 332, 'dense_units': 273, 'kernel': '5', 'epochs': 465, 'batch_size': 465}
+Best performance (MSE): 45.457354286197436
+

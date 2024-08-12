@@ -1,0 +1,2 @@
+# Bone_stress
+This project presents a novel approach to predicting foot bone stress in running, integrating biomechanical models with personalized shape prediction and real-time data from wearable devices. The goal is to improve the accuracy and personalization of stress predictions, providing a dynamic assessment of foot bone stress that could be valuable for injury prevention and performance optimization.
